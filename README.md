@@ -70,4 +70,10 @@ only showing top 5 rows
 Cross validation will start and will take a long time.
 (We will test for ElasticNet,0.1 0.5 0.9 1.0)
 (We will test for Logistic Parameters,1.0E-6 1.0E-5 1.0E-4 0.001 0.01 0.1 1.0)
+Test set accuracy: 0.951                                                        
+Best model parameters: 
+{
+	logreg_f6c44275d8de-elasticNetParam: 0.9,
+	logreg_f6c44275d8de-regParam: 1.0E-4
+}
 ```
